@@ -25,5 +25,5 @@ build:
         name: go test
         code: |
           go test ./...
-foo:
+deploy:
   steps: []
